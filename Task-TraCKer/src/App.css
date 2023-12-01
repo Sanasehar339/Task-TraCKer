@@ -101,7 +101,6 @@ header {
   border: none;
   color: var(--main-bg);
   cursor: pointer;
-  border-left: 1px solid #ccc;
 }
 
 /* Styling for the task content area */
